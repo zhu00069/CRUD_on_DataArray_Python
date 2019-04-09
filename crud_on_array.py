@@ -1,7 +1,7 @@
 """
 Description: the purpose of assignmemt3 is to import csv file and read csv file,
              save the first 10 records to array data structure,
-             provide user options to achieve CRUD to 10 records
+             provide user options to achieve CRUD on data.
 Created on 2019-02-19
 Last modified on 2019-03-02
 @author:Bo Zhu, student Number：040684747
